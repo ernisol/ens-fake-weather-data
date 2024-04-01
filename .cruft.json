@@ -1,0 +1,17 @@
+{
+  "template": "git@github.com:ernisol/cookiecutter-python.git",
+  "commit": "6302eadc58cc29c47c73e3e8cd3b40222f8a63ac",
+  "checkout": null,
+  "context": {
+    "cookiecutter": {
+      "full_name": "Erwan Nisol",
+      "email": "erwan.nisol@free.fr",
+      "github_username": "ernisol",
+      "project_name": "ens-fake-weather-data",
+      "project_slug": "ens_fake_weather_data",
+      "project_short_description": "FastAPI service for fake weather data",
+      "_template": "git@github.com:ernisol/cookiecutter-python.git"
+    }
+  },
+  "directory": null
+}
