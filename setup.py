@@ -2,4 +2,4 @@
 
 from setuptools import setup
 
-setup(name=ens_fake_weather_data, version="0.0.0")
+setup(name="ens-fake-weather-data", version="0.0.0")
